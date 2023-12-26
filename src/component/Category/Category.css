@@ -1,0 +1,8 @@
+.heading{
+    padding: 10px;
+    font-size: 30px;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}

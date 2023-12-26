@@ -1,3 +1,4 @@
+import Category from '../Category/Category';
 import Nav from '../Nav/Nav';
 import { useLoaderData } from 'react-router-dom';
 
@@ -6,7 +7,7 @@ const Home = () => {
     return (
         <div>
             <Nav/>
-            {data.length}
+            <Category/>
         </div>
     );
 };

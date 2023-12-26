@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Children } from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
 import './index.css'
@@ -12,6 +12,8 @@ const router = createBrowserRouter([
     element: <Home/>,
     loader: () => fetch('data.json')
   },
+
+
 ]);
 
 ReactDOM.createRoot(document.getElementById('root')).render(

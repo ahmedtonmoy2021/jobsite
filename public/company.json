@@ -1,5 +1,4 @@
-{
-    "categories": [
+[
       {
         "category_logo": "tech_category_logo.png",
         "category_name": "Technology",
@@ -20,6 +19,5 @@
         "category_name": "Finance",
         "jobs_available": 60
       }
-    ]
-  }
+]
   
