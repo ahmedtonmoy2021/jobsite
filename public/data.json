@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "company_logo": "company1_logo.png",
+      "job_title": "Software Engineer",
+      "company_name": "Tech Innovators Inc.",
+      "remote_or_onsite": "Remote",
+      "location": "Global",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$90,000 - $120,000",
+      "job_description": "We are seeking a talented software engineer to join our dynamic team...",
+      "job_responsibility": "Develop and maintain high-quality software solutions, collaborate with cross-functional teams...",
+      "educational_requirements": "Bachelor's degree in Computer Science or related field",
+      "experiences": "3+ years of software development experience",
+      "contact_information": {
+        "phone": "555-1234",
+        "email": "jobs@techinnovators.com"
+      }
+    },
+    {
+      "id": 2,
+      "company_logo": "company2_logo.png",
+      "job_title": "Marketing Specialist",
+      "company_name": "Digital Marketing Pros",
+      "remote_or_onsite": "Onsite",
+      "location": "New York, NY",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "$50,000 - $60,000 (Pro-rated)",
+      "job_description": "Join our marketing team and contribute to innovative digital campaigns...",
+      "job_responsibility": "Create and implement marketing strategies, analyze campaign performance...",
+      "educational_requirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "2+ years of marketing experience",
+      "contact_information": {
+        "phone": "555-5678",
+        "email": "careers@digitalmarketingpros.com"
+      }
+    },
+    {
+      "id": 3,
+      "company_logo": "company3_logo.png",
+      "job_title": "UX/UI Designer",
+      "company_name": "Creative Solutions Co.",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco, CA",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "We're looking for a talented UX/UI designer to join our design team...",
+      "job_responsibility": "Create user-centric design solutions, collaborate with product and development teams...",
+      "educational_requirements": "Bachelor's degree in Design or related field",
+      "experiences": "3+ years of UX/UI design experience",
+      "contact_information": {
+        "phone": "555-8765",
+        "email": "designjobs@creativesolutionsco.com"
+      }
+    },
+    {
+      "id": 4,
+      "company_logo": "company4_logo.png",
+      "job_title": "Financial Analyst",
+      "company_name": "Global Finance Corp.",
+      "remote_or_onsite": "Remote",
+      "location": "Global",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$70,000 - $90,000",
+      "job_description": "Join our finance team and contribute to strategic financial planning...",
+      "job_responsibility": "Conduct financial analysis, prepare reports, collaborate with cross-functional teams...",
+      "educational_requirements": "Bachelor's degree in Finance or related field",
+      "experiences": "2+ years of financial analysis experience",
+      "contact_information": {
+        "phone": "555-4321",
+        "email": "financecareers@globalfinancecorp.com"
+      }
+    },
+    {
+      "id": 5,
+      "company_logo": "company5_logo.png",
+      "job_title": "Customer Support Specialist",
+      "company_name": "Service Excellence Ltd.",
+      "remote_or_onsite": "Remote",
+      "location": "Global",
+      "fulltime_or_parttime": "Part-time",
+      "salary": "$40,000 - $50,000 (Pro-rated)",
+      "job_description": "Provide exceptional customer support and ensure customer satisfaction...",
+      "job_responsibility": "Respond to customer inquiries, troubleshoot issues, escalate problems when necessary...",
+      "educational_requirements": "High school diploma or equivalent",
+      "experiences": "1+ years of customer support experience",
+      "contact_information": {
+        "phone": "555-9876",
+        "email": "supportcareers@serviceexcellenceltd.com"
+      }
+    },
+    {
+      "id": 6,
+      "company_logo": "company6_logo.png",
+      "job_title": "Data Scientist",
+      "company_name": "Data Insights Co.",
+      "remote_or_onsite": "Remote",
+      "location": "Global",
+      "fulltime_or_parttime": "Full-time",
+      "salary": "$100,000 - $130,000",
+      "job_description": "We are looking for a skilled data scientist to join our data insights team...",
+      "job_responsibility": "Analyze large datasets, develop predictive models, collaborate with data engineering teams...",
+      "educational_requirements": "Master's or Ph.D. in Data Science, Statistics, or related field",
+      "experiences": "3+ years of experience in data science",
+      "contact_information": {
+        "phone": "555-5678",
+        "email": "datascience@datainsightsco.com"
+      }
+    }
+  ]
+  

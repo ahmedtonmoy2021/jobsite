@@ -1,0 +1,25 @@
+{
+    "categories": [
+      {
+        "category_logo": "tech_category_logo.png",
+        "category_name": "Technology",
+        "jobs_available": 120
+      },
+      {
+        "category_logo": "marketing_category_logo.png",
+        "category_name": "Marketing",
+        "jobs_available": 80
+      },
+      {
+        "category_logo": "design_category_logo.png",
+        "category_name": "Design",
+        "jobs_available": 50
+      },
+      {
+        "category_logo": "finance_category_logo.png",
+        "category_name": "Finance",
+        "jobs_available": 60
+      }
+    ]
+  }
+  
